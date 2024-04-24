@@ -14,7 +14,7 @@ from langchain_core.vectorstores import VectorStoreRetriever
 from dotenv import load_dotenv
 load_dotenv()  
 
-st.set_page_config(page_title="RockyBot: News Research Tool 📈", page_icon=":newspaper:", layout="wide")
+st.set_page_config(page_title="News Data Summariser Tool 📰📰📰", page_icon=":newspaper:", layout="wide")
 st.markdown(
     """
     <style>
